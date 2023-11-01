@@ -1,0 +1,30 @@
+Dataframe shape (rows, columns): (796508, 2)
+--- Rows with Empty Cells Deleted	--> Rows: 796507
+--- Duplicates Deleted			--> Rows: 796507
+--- Source-Copied Rows Deleted		--> Rows: 795699
+--- Too Long Source/Target Deleted	--> Rows: 792327
+--- HTML Removed			--> Rows: 792327
+--- Rows will remain in true-cased	--> Rows: 792327
+--- Rows with Empty Cells Deleted	--> Rows: 792327
+--- Rows Shuffled			--> Rows: 792327
+--- Source Saved: WikiMatrix.en-nl.en-filtered.en
+--- Target Saved: WikiMatrix.en-nl.nl-filtered.nl
+Done, training a SentencepPiece model for the Source finished successfully!
+Done, training a SentencepPiece model for the Target finished successfully!
+Source Model: source.model
+Target Model: target.model
+Source Dataset: WikiMatrix.en-nl.en-filtered.en
+Target Dataset: WikiMatrix.en-nl.nl-filtered.nl
+Done subwording the source file! Output: WikiMatrix.en-nl.en-filtered.en.subword
+Done subwording the target file! Output: WikiMatrix.en-nl.nl-filtered.nl.subword
+Dataframe shape: (792327, 2)
+--- Empty Cells Deleted --> Rows: 792327
+--- Wrote Files
+Done!
+Output files
+WikiMatrix.en-nl.en-filtered.en.subword.train
+WikiMatrix.en-nl.nl-filtered.nl.subword.train
+WikiMatrix.en-nl.en-filtered.en.subword.dev
+WikiMatrix.en-nl.nl-filtered.nl.subword.dev
+WikiMatrix.en-nl.en-filtered.en.subword.test
+WikiMatrix.en-nl.nl-filtered.nl.subword.test
