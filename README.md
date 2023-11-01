@@ -1,1 +1,1 @@
-This is a sample README file
+Our model is stored on a Google Drive shared folder
