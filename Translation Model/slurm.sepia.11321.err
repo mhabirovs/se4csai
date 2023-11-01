@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "/home/u558964/Projects/SE/Final/nmt/CTranslate2.py", line 28, in <module>
-    translator = ctranslate2.Translator(ct_model_path, device="cuda")  # or "cuda" for GPU
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-RuntimeError: Unable to open file 'model.bin' in model 'models/model.dutch_step_70000.pt/'
