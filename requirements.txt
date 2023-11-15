@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+sentencepiece
+ctranslate2
+nltk
+collections
+re
