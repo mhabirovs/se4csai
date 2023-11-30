@@ -2,7 +2,7 @@ This GitHub Repo holds a model for SE4CSAI project for group 'Pancakes'. The pro
 
 Our model and used dataset is stored on a Google Drive shared folder due to size limitations.
 
-To run the application, make sure the files "Streamlit_App.py", "source.model", "target.model" and the folder "ct2_model" are all in the same folder. 
+To run the application, make sure the files "Streamlit_App.py", "source.model", "target.model" and the folder "ct2_model" are all in the same folder. The "ct2_model" folder can be downloaded via link provided in deliverable of Task 7.
 
 Install the modules in "requirements.txt". 
 
