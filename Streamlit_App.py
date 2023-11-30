@@ -10,7 +10,7 @@ from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import word_tokenize, sent_tokenize
 from collections import defaultdict
 from tempfile import NamedTemporaryFile
-import re
+import regex as re
 
 #Translation Function
 def translate(source, translator, sp_source_model, sp_target_model):
